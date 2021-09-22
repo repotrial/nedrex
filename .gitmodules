@@ -1,0 +1,6 @@
+[submodule "api/tools/nedrex_validation"]
+	path = api/tools/nedrex_validation
+	url = git@github.com:repotrial/nedrex_validation.git
+[submodule "api/tools/MultiSteinerBackend"]
+	path = api/tools/MultiSteinerBackend
+	url = git@github.com:repotrial/MultiSteinerBackend.git
